@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+header{
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+h1{
+    size: 120px;
+    color: white;
+}
+img{
+    size: 20px;
+
+
+}
+p{
+    text-align: center;
+    position: relative;
+    color: white;
+}
+.textinfo{
+    color: white;
+    text-align: center;
+    position: relative;
+    background-color: black;
+}
